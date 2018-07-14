@@ -14,6 +14,11 @@ public class ServletDemo extends HttpServlet {
         System.out.println("nihao");
         System.out.println("hahaha");
         System.out.println("nihao");
+        System.out.println("hahaha");
+        System.out.println("nihao");
+        System.out.println("hahaha");
+        System.out.println("nihao");System.out.println("hahaha");
+        System.out.println("nihao");
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
